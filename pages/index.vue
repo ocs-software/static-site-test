@@ -6,7 +6,7 @@
         static-website-test
       </h1>
       <h2 class="subtitle">
-        My pioneering Nuxt.js project
+        OCS first nuxt.js static website test
       </h2>
       <div class="links">
         <a
